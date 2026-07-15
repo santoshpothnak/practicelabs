@@ -1,0 +1,26 @@
+product_id,product_name,category,unit_price
+1,Organic Bananas,Produce,0.59
+2,Whole Milk 1Gal,Dairy,3.49
+3,Cheddar Cheese Block,Dairy,4.99
+4,Sourdough Bread,Bakery,3.99
+5,Free-Range Eggs (Dozen),Dairy,4.49
+6,Chicken Breast 1lb,Meat,5.99
+7,Ground Beef 1lb,Meat,6.49
+8,Atlantic Salmon Fillet,Seafood,9.99
+9,Roma Tomatoes,Produce,-1.29
+10,Baby Spinach,Produce,2.49
+11,Avocado,Produce,1.49
+12,Greek Yogurt 32oz,Dairy,5.29
+13,Orange Juice 64oz,Beverages,4.79
+14,Sparkling Water 12pk,Beverages,5.99
+15,Coffee Beans 12oz,Beverages,8.99
+16,Pasta Penne 1lb,Pantry,1.99
+17,Marinara Sauce,Pantry,3.29
+18,Olive Oil 500ml,Pantry,7.99
+19,Almonds 16oz,Snacks,6.99
+20,Potato Chips,Snacks,3.49
+21,Dark Chocolate Bar,Snacks,2.99
+22,Paper Towels 6pk,Household,8.49
+23,Dish Soap,Household,2.79
+24,Laundry Detergent,Household,11.99
+25,Frozen Pizza,Frozen,5.49
